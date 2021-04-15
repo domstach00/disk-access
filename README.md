@@ -8,5 +8,5 @@ Includes basic algorithms:
 - C-SCAN
 
 And real-time algorithms:
-● Earliest Deadline First
-● Feasible Deadline Scan 
+- Earliest Deadline First
+- Feasible Deadline Scan 
